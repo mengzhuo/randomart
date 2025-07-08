@@ -1,12 +1,16 @@
-randomart [![Build Status](https://drone.io/github.com/calmh/randomart/status.png)](https://drone.io/github.com/calmh/randomart/latest)
+randomart 
 =========
 
+[![Go](https://github.com/mengzhuo/randomart/actions/workflows/go.yml/badge.svg)](https://github.com/mengzhuo/randomart/actions/workflows/go.yml)
+
 Generate OpenSSH style "randomart" images based on key fingerprints.
+
+Forked from https://github.com/calmh/randomart (public archived)
 
 Documentation
 -------------
 
-http://godoc.org/github.com/calmh/randomart
+https://go.dev/github.com/mengzhuo/randomart
 
 Example
 -------
