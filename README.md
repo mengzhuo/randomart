@@ -2,15 +2,11 @@ randomart
 =========
 
 [![Go](https://github.com/mengzhuo/randomart/actions/workflows/go.yml/badge.svg)](https://github.com/mengzhuo/randomart/actions/workflows/go.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/mengzhuo/randomart.svg)](https://pkg.go.dev/github.com/mengzhuo/randomart)
 
 Generate OpenSSH style "randomart" images based on key fingerprints.
 
 Forked from https://github.com/calmh/randomart (public archived)
-
-Documentation
--------------
-
-https://go.dev/github.com/mengzhuo/randomart
 
 Example
 -------
